@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello baba"
 date:   2016-04-16 02:27:28 +0300
-categories: thoughts, meaningless, me
+categories: thoughts
 ---
 Big day, my first blog post o.O
 
