@@ -7,8 +7,8 @@ email: beatrisvboneva@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Just blog about computer science, mathematics and not so geeky
   things like the meaning of life.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://beatris.github.io/"
 twitter_username: beatris_boneva
 github_username:  Beatris
 
